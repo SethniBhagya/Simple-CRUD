@@ -1,0 +1,31 @@
+.App {
+  
+  color: chartreuse;
+  background-color: rgb(10, 10, 54);
+}
+.App h1{
+  text-align: center;
+padding-top: 30px;
+}
+.form{
+
+  display: flex;
+  flex-direction: column;
+
+}
+.form label{
+ padding-left: 10px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.form input{
+  align-items: center;
+  color:rgb(10, 10, 54);
+  font-size: 18px;
+
+  width: 70%;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.579);
+  margin: 10px;
+}
